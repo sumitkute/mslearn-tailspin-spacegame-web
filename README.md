@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/myProjectAzure/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/sumitkute.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/myProjectAzure/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=91&branchName=master)
 
 # Contributing
 
